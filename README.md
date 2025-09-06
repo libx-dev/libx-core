@@ -1,4 +1,4 @@
-# libx-core# libx-core
+# libx-core
 
 **Modern Documentation Framework for Multi-Project Monorepos**
 
